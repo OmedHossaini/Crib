@@ -1,0 +1,31 @@
+.matthew-container {
+    background-color: #E3F2FD;
+    border: 2px solid #1976D2;
+    padding: 20px;
+    text-align: center;
+}
+
+.matthew-title {
+    color: #0D47A1;
+    font-size: 28px;
+}
+
+.matthew-bio {
+    color: #1976D2;
+    font-style: italic;
+}
+
+.matthew-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.matthew-btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

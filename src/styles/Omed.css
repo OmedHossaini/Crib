@@ -1,0 +1,32 @@
+/* src/styles/Omed.css */
+.omed-container {
+    background-color: #E8F5E9;
+    border: 2px solid #388E3C;
+    padding: 20px;
+    text-align: center;
+}
+
+.omed-title {
+    color: #2E7D32;
+    font-size: 28px;
+}
+
+.omed-bio {
+    color: #388E3C;
+    font-style: italic;
+}
+
+.omed-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.omed-btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

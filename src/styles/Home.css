@@ -1,0 +1,12 @@
+.home {
+    background-color: #e0f7fa;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #00796b;
+  }
+  

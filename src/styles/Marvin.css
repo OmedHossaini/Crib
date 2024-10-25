@@ -1,0 +1,31 @@
+.marvin-container {
+    background-color: #FFF8E1;
+    border: 2px solid #FFB300;
+    padding: 20px;
+    text-align: center;
+}
+
+.marvin-title {
+    color: #FF6F00;
+    font-size: 28px;
+}
+
+.marvin-bio {
+    color: #FF8F00;
+    font-style: italic;
+}
+
+.marvin-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.marvin-btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #FFB300;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
