@@ -8,6 +8,7 @@ const Omed = () => {
             <p className="omed-bio">"Living life to the fullest!"</p>
             <img src="/images/omed.jpg" alt="Omed" className="omed-image" />
             <button className="omed-btn" onClick={() => window.location.href = "/"}>Go Home</button>
+            <div className="animated-div"></div> {/* New animated div */}
         </div>
     );
 };
